@@ -14,7 +14,7 @@ Unesco World Heritage Sites is a Django project that showcases my knowledge of c
 ## Data Model Diagram <a name="schema"></a>
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.ibb.co/L1rpLT3/draw-SQL-export-2021-03-24-22-16.png" alt="Data Model Diagram for Unesco World Heritage Sites" border="0"></a>
+ <img width=200px height=200px src="https://github.com/seun-beta/Unesco-World-Heritage-Sites/blob/main/db.JPG" alt="Data Model Diagram for Unesco World Heritage Sites" border="0"></a>
 </p>
 
 <h3 align="center">Data Model Diagram</h3>
